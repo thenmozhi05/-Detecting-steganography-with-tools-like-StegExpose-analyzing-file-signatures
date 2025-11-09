@@ -45,6 +45,8 @@ xxd suspect.jpg | head
 java -jar StegExpose.jar suspect.jpg
 ```
 ## OUTPUT:
+<img width="627" height="540" alt="image" src="https://github.com/user-attachments/assets/dc4dbb00-987d-4082-9919-c05fc68fddf8" />
+
 List of Images with Steganography Detection Scores and File Signature Details
 
 ## RESULT:
